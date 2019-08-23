@@ -135,7 +135,7 @@ $i: 0;
 .cards-slider {
   position: relative;
   max-width: 532px;
-  max-height: 200px;
+  max-height: 300px;
   margin: 0 auto;
   .card {
     flex: 1;
@@ -144,7 +144,7 @@ $i: 0;
     content: "";
     display: block;
     width: 94%;
-    height: 415px;
+    height: 460px;
     outline: 5px solid #61dafb;
     position: absolute;
     top: 0;
