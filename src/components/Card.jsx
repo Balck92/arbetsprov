@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import Like from "../common/like";
-import ShareFacebookButton from "./sharebutton";
 
 class Card extends Component {
   constructor(props) {
